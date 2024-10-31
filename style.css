@@ -1,0 +1,25 @@
+.M{
+    background-color: rgb(255, 202, 116);
+}
+.A{
+    background-color: rgb(19, 247, 202);
+}
+.F{
+    background-color: rgb(247, 118, 19);
+}
+.I{
+    background-color: rgb(225, 35, 239);
+}
+.img {
+    height: 200px; ;
+    width: 250px; ;
+}
+h1{
+    font-family: Arial;
+}
+h2{
+    font-family: Helvetica;
+}
+h4{
+    font-family: monospace;
+}
